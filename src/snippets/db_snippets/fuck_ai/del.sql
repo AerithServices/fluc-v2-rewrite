@@ -1,0 +1,1 @@
+DELETE FROM fuck_at WHERE user_id=%s;

@@ -1,0 +1,1 @@
+from apps.nuke import bot

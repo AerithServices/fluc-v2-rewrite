@@ -1,0 +1,1 @@
+SELECT * FROM stats WHERE user_id=%s;

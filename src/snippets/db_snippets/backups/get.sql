@@ -1,0 +1,1 @@
+SELECT * FROM backups WHERE `key`=%s;

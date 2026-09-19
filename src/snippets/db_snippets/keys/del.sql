@@ -1,0 +1,1 @@
+DELETE FROM `keys` where `key`=%s;

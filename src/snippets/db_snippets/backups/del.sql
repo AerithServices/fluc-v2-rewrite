@@ -1,0 +1,1 @@
+DELETE FROM backups WHERE `key`=%s;

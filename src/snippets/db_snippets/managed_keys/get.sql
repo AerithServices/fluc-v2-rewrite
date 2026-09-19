@@ -1,0 +1,1 @@
+SELECT * FROM managed_keys WHERE user_id=%s;

@@ -1,0 +1,32 @@
+{
+    "command_prefix": [
+        "."
+    ],
+    "owner_ids": [
+        0
+    ],
+    "protected_servers": [
+        0
+    ],
+    "premium": {
+        "cooldown_coefficient": 0.75,
+        "notification_channel_id": 0
+    },
+    "http": {
+        "nuke": {
+            "available_ipv4": [
+                null
+            ]
+        },
+        "utility": {
+            "available_ipv4": [
+                null
+            ]
+        },
+        "raid": {
+            "available_ipv4": [
+                null
+            ]
+        }
+    }
+}

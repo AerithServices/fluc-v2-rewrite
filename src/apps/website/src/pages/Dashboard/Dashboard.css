@@ -1,0 +1,36 @@
+body {
+    /* padding-top: 0; */
+    min-height: 100vh;
+}
+
+.category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.controls {
+    display: flex;
+    /* justify-content: center; */
+    gap: 2rem;
+}
+
+.category hr {
+    min-width: 300px;
+}
+
+.quick-access {
+    color: #646cff;
+    display: flex;
+    gap: 1rem;
+}
+
+.quick-access p {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.selected {
+    border-radius: 10px;
+    background-color: var(--discord-blue);
+}

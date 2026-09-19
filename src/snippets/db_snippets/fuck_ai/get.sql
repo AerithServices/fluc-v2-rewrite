@@ -1,0 +1,1 @@
+SELECT * FROM fuck_ai WHERE user_id=%s;

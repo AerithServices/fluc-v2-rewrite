@@ -1,0 +1,32 @@
+#consent {
+    font-size: 10px;
+    color: lightgray;
+}
+
+.description {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 10px;
+    margin-inline: auto;
+    padding: 20px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.description hr {
+    width: 100%;
+    color: gray;
+}
+
+.home h1 {
+    padding-left: 25%;
+}
+
+.description img {
+    height: 300px;
+    width: 300px;
+}

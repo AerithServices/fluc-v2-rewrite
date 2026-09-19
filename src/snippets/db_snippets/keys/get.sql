@@ -1,0 +1,1 @@
+SELECT * FROM `keys` WHERE `key`=%s;

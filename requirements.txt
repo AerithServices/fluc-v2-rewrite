@@ -1,0 +1,15 @@
+discord
+colorama
+dotenv
+pydantic
+pillow
+fastapi
+uvicorn
+aiomysql
+slowapi
+itsdangerous
+orjson
+dateparser
+cryptography
+numpy
+requests

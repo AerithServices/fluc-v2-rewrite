@@ -1,0 +1,12 @@
+{
+    "invite_server": 0,
+    "main_server": 0,
+    "verify_message": 0,
+    "client_id": 0,
+    "redirect_uri": "https://",
+    "join_url": "https://",
+    "": [
+        "guilds.join",
+        "identify"
+    ]
+}

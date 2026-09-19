@@ -1,0 +1,231 @@
+{
+    "default": {
+        "reset_days": 360,
+        "punishment_dismiss_days": 31
+    },
+    "underage": {
+        "id": 0,
+        "text": "Minimum age requirements",
+        "punishments": [
+            3
+        ]
+    },
+    "insciting raid": {
+        "id": 1,
+        "text": "Inciting or organizing a raid",
+        "punishments": []
+    },
+    "spamming/flooding": {
+        "id": 2,
+        "text": "Spamming or flooding conversations",
+        "punishments": [
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "compromised": {
+        "id": 3,
+        "text": "Compromised user account",
+        "punishments": [
+            2
+        ]
+    },
+    "punishment evasion": {
+        "id": 4,
+        "text": "Evading a punishment or moderation action",
+        "punishments": []
+    },
+    "impersonation": {
+        "id": 5,
+        "text": "Impersonating another user or entity",
+        "punishments": [
+            0,
+            1
+        ]
+    },
+    "witch hunting": {
+        "id": 6,
+        "text": "Targeting or encouraging others to target a user",
+        "punishments": [
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "classified/restricted content": {
+        "id": 7,
+        "text": "Posting classified/restricted content",
+        "punishments": [
+            1
+        ]
+    },
+    "illegal content": {
+        "id": 8,
+        "text": "Posting or distributing illegal content",
+        "punishments": [
+            1
+        ]
+    },
+    "personal info": {
+        "id": 9,
+        "text": "Sharing personal or private information",
+        "punishments": [
+            0,
+            1
+        ]
+    },
+    "racism/sexism": {
+        "id": 10,
+        "text": "Racist or sexist behavior",
+        "punishments": [
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "harassment": {
+        "id": 11,
+        "text": "Harassing or repeatedly targeting another user",
+        "punishments": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "toxic behavior": {
+        "id": 12,
+        "text": "Toxic or excessively hostile behavior",
+        "punishments": [
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "gore/nsfw": {
+        "id": 13,
+        "text": "Posting gore or NSFW",
+        "punishments": []
+    },
+    "disturbing conversations": {
+        "id": 15,
+        "text": "Posting disturbing or inappropriate content in conversations",
+        "punishments": [
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "disrupting conversations": {
+        "id": 16,
+        "text": "Disrupting or derailing conversations",
+        "punishments": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "minimodding": {
+        "id": 17,
+        "text": "Acting as a moderator without permission",
+        "punishments": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "harm": {
+        "id": 18,
+        "text": "Threatening or encouraging harm",
+        "punishments": [
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "malicious activity": {
+        "id": 19,
+        "text": "Engaging in malicious or harmful activity",
+        "punishments": [
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "suspicious activity": {
+        "id": 20,
+        "text": "Engaging in suspicious or potentially harmful activity",
+        "punishments": [
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "mass dm": {
+        "id": 21,
+        "text": "Sending unsolicited mass direct messages",
+        "punishments": [
+            3
+        ]
+    },
+    "suspicious/inappropriate links": {
+        "id": 22,
+        "text": "Sending suspicious or inappropriate links",
+        "punishments": [
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "trolling in support tickets": {
+        "id": 23,
+        "text": "Trolling in support tickets",
+        "punishments": [
+            0,
+            0,
+            2,
+            2
+        ]
+    },
+    "unnecessary pings": {
+        "id": 24,
+        "text": "Pinging members/staff without a reason",
+        "punishments": [
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "posting advertisements": {
+        "id": 25,
+        "text": "Posting advertise/third party promotions in server",
+        "punishments": [
+            0,
+            1,
+            1
+        ]
+    }
+}

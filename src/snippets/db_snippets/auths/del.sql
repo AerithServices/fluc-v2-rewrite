@@ -1,0 +1,1 @@
+DELETE FROM auths WHERE user_id=%s;

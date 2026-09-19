@@ -1,0 +1,1 @@
+DELETE FROM settings WHERE user_id=%s;
